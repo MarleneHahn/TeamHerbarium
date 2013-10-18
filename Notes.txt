@@ -3,3 +3,5 @@ List of information to share at lab meeting
 1.github an awesome way to version control
 2. Python language- for and while loops
 3. great lunches!!!!!
+4. Happy Friday
+5. sleeping in for sure!!!
